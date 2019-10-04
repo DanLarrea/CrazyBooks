@@ -1,0 +1,55 @@
+﻿<style>
+</style>
+
+<div class="content">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">
+                    <h4 class="card-title">ROOM RESERVATIONS</h4>
+                </div>
+                <div class="card-body">
+                    <form>
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <label for="LendsVM_BtSelectedUser">Select a User</label>
+                                <select class="form-control" id="LendsVM_BtSelectedUser" ng-model="vm.Users">
+                                    <option selected>Choose...</option>
+                                    <option ng-model="vm.Users" ng-options="x in vm.Users"></option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <label for="LendsVM_BtSelectedBook">Select a Room</label>
+                                <select class="form-control" id="LendsVM_BtSelectedRoom" ng-model="vm.Rooms">
+                                    <option selected>Choose...</option>
+                                    <option ng-repeat="Room in vm.Rooms" value="{{Room.Code}}">{{Room.Code}}</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <button type="submit" class="btn btn-primary btn-round float-right" ng-show="vm.IsEditing" ng-click="vm.AddNewUser()">
+                            <i class="now-ui-icons users_single-02"></i> BOOK A ROOM
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12">
+            <div class="card card-plain">
+                <div class="card-header">
+                    <h4 class="card-title"> ROOM RESERVATIONS </h4>
+                    <p class="category"> These rooms are booked by members</p>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <div class="card o-hidden border-0 shadow-lg my-5">
+                            <div ui-grid="vm.GridOptions" ui-grid-auto-resize></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

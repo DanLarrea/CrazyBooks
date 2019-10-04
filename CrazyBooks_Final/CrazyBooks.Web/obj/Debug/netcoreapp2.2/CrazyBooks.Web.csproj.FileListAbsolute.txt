@@ -1,0 +1,119 @@
+C:/Users/a4alumno/source/repos/CrazyBooks v10/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.deps.json
+C:/Users/a4alumno/source/repos/CrazyBooks v10/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.runtimeconfig.json
+C:/Users/a4alumno/source/repos/CrazyBooks v10/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.runtimeconfig.dev.json
+C:/Users/a4alumno/source/repos/CrazyBooks v10/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.dll
+C:/Users/a4alumno/source/repos/CrazyBooks v10/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.csproj.CoreCompileInputs.cache
+C:/Users/a4alumno/source/repos/CrazyBooks v10/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.RazorAssemblyInfo.cache
+C:/Users/a4alumno/source/repos/CrazyBooks v10/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.RazorAssemblyInfo.cs
+C:/Users/a4alumno/source/repos/CrazyBooks v10/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.AssemblyInfoInputs.cache
+C:/Users/a4alumno/source/repos/CrazyBooks v10/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.AssemblyInfo.cs
+C:/Users/a4alumno/source/repos/CrazyBooks v10/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.RazorTargetAssemblyInfo.cache
+C:/Users/a4alumno/source/repos/CrazyBooks v10/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.pdb
+C:/Users/a4alumno/source/repos/CrazyBooks v10/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.dll
+C:/Users/a4alumno/source/repos/CrazyBooks v10/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.pdb
+C:/Users/a4alumno/source/repos/CrazyBooks v10/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.csprojAssemblyReference.cache
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooks v11/CrazyBooks.Web/bin/Debug/netcoreapp2.2/appsettings.Development.json
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooks v11/CrazyBooks.Web/bin/Debug/netcoreapp2.2/appsettings.json
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooks v11/CrazyBooks.Web/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooks v11/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.deps.json
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooks v11/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.runtimeconfig.json
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooks v11/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.runtimeconfig.dev.json
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooks v11/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.dll
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooks v11/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.pdb
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooks v11/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.csprojAssemblyReference.cache
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooks v11/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.csproj.CoreCompileInputs.cache
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooks v11/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.RazorAssemblyInfo.cache
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooks v11/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.RazorAssemblyInfo.cs
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooks v11/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.AssemblyInfoInputs.cache
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooks v11/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.AssemblyInfo.cs
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooks v11/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.RazorTargetAssemblyInfo.cache
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooks v11/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.dll
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooks v11/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.pdb
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/appsettings.Development.json
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/appsettings.json
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.deps.json
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.runtimeconfig.json
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.runtimeconfig.dev.json
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.dll
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.pdb
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.csprojAssemblyReference.cache
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.csproj.CoreCompileInputs.cache
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.RazorAssemblyInfo.cache
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.RazorAssemblyInfo.cs
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.AssemblyInfoInputs.cache
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.AssemblyInfo.cs
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.RazorTargetAssemblyInfo.cache
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.dll
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.pdb
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Lib.DAL.dll
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Lib.dll
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Lib.DAL.pdb
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Lib.pdb
+C:/Users/A4ALUMNO/Documents/Dev/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.csproj.CopyComplete
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.csprojAssemblyReference.cache
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.csproj.CoreCompileInputs.cache
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.RazorAssemblyInfo.cache
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.RazorAssemblyInfo.cs
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.AssemblyInfoInputs.cache
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.AssemblyInfo.cs
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.dll
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.pdb
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/appsettings.Development.json
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/appsettings.json
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.deps.json
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.runtimeconfig.json
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.runtimeconfig.dev.json
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.dll
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.pdb
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Lib.DAL.dll
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Lib.dll
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Lib.DAL.pdb
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Lib.pdb
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.RazorTargetAssemblyInfo.cache
+C:/Users/A4ALUMNO/Documents/Dev/v2/v3/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.csproj.CopyComplete
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.deps.json
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.runtimeconfig.json
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.runtimeconfig.dev.json
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.dll
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Web.pdb
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Lib.DAL.dll
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Lib.dll
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Lib.DAL.pdb
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/bin/Debug/netcoreapp2.2/CrazyBooks.Lib.pdb
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.csprojAssemblyReference.cache
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.csproj.CoreCompileInputs.cache
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.RazorAssemblyInfo.cache
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.RazorAssemblyInfo.cs
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.AssemblyInfoInputs.cache
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.AssemblyInfo.cs
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.RazorTargetAssemblyInfo.cache
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.csproj.CopyComplete
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.dll
+/Users/daniellarrea/Desktop/CrazyBooksFinal/CrazyBooks.Web/obj/Debug/netcoreapp2.2/CrazyBooks.Web.pdb
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\bin\Debug\netcoreapp2.2\CrazyBooks.Web.deps.json
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\bin\Debug\netcoreapp2.2\CrazyBooks.Web.runtimeconfig.json
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\bin\Debug\netcoreapp2.2\CrazyBooks.Web.runtimeconfig.dev.json
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\bin\Debug\netcoreapp2.2\CrazyBooks.Web.dll
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\bin\Debug\netcoreapp2.2\CrazyBooks.Web.pdb
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\bin\Debug\netcoreapp2.2\CrazyBooks.Lib.DAL.dll
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\bin\Debug\netcoreapp2.2\CrazyBooks.Lib.dll
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\bin\Debug\netcoreapp2.2\CrazyBooks.Lib.DAL.pdb
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\bin\Debug\netcoreapp2.2\CrazyBooks.Lib.pdb
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\obj\Debug\netcoreapp2.2\CrazyBooks.Web.csprojAssemblyReference.cache
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\obj\Debug\netcoreapp2.2\CrazyBooks.Web.csproj.CoreCompileInputs.cache
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\obj\Debug\netcoreapp2.2\CrazyBooks.Web.RazorAssemblyInfo.cache
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\obj\Debug\netcoreapp2.2\CrazyBooks.Web.RazorAssemblyInfo.cs
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\obj\Debug\netcoreapp2.2\CrazyBooks.Web.AssemblyInfoInputs.cache
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\obj\Debug\netcoreapp2.2\CrazyBooks.Web.AssemblyInfo.cs
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\obj\Debug\netcoreapp2.2\CrazyBooks.Web.RazorTargetAssemblyInfo.cache
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\obj\Debug\netcoreapp2.2\CrazyBooks.Web.csproj.CopyComplete
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\obj\Debug\netcoreapp2.2\CrazyBooks.Web.dll
+C:\Users\A4ALUMNO\Documents\Dev\CrazyBooksFinalCasa\CrazyBooks.Web\obj\Debug\netcoreapp2.2\CrazyBooks.Web.pdb

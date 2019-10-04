@@ -1,0 +1,51 @@
+/*!
+
+ =========================================================
+ * Now UI Dashboard - v1.3.0
+ =========================================================
+
+ * Product Page: https://www.creative-tim.com/product/now-ui-dashboard
+ * Copyright 2019 Creative Tim (http://www.creative-tim.com)
+
+ * Designed by www.invisionapp.com Coded by www.creative-tim.com
+
+ =========================================================
+
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+ */
+
+@import '../scss/now-ui-dashboard/variables';
+@import '../scss/now-ui-dashboard/mixins';
+
+// Plugins CSS
+@import "../scss/now-ui-dashboard/plugins/plugin-animate-bootstrap-notify";
+@import "../scss/now-ui-dashboard/plugins/plugin-perfect-scrollbar";
+
+// Core CSS
+@import "../scss/now-ui-dashboard/buttons";
+@import "../scss/now-ui-dashboard/inputs";
+@import "../scss/now-ui-dashboard/typography";
+@import "../scss/now-ui-dashboard/misc";
+@import "../scss/now-ui-dashboard/checkboxes-radio";
+
+// components
+@import "../scss/now-ui-dashboard/navbar";
+@import "../scss/now-ui-dashboard/page-header";
+@import "../scss/now-ui-dashboard/dropdown";
+@import "../scss/now-ui-dashboard/alerts";
+@import "../scss/now-ui-dashboard/images";
+@import "../scss/now-ui-dashboard/nucleo-outline";
+@import "../scss/now-ui-dashboard/tables";
+@import "../scss/now-ui-dashboard/sidebar-and-main-panel";
+@import "../scss/now-ui-dashboard/footers";
+@import "../scss/now-ui-dashboard/fixed-plugin";
+
+// cards
+@import "../scss/now-ui-dashboard/cards";
+@import "../scss/now-ui-dashboard/cards/card-plain";
+@import "../scss/now-ui-dashboard/cards/card-chart";
+@import "../scss/now-ui-dashboard/cards/card-user";
+@import "../scss/now-ui-dashboard/cards/card-map";
+
+@import "../scss/now-ui-dashboard/responsive";

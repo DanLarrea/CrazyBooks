@@ -1,0 +1,56 @@
+﻿<style>
+
+</style>
+
+<div class="content">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">
+                    <h4 class="card-title">LENDS</h4>
+                </div>
+                <div class="card-body">
+                    <form>
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <label for="LendsVM_BtSelectedUser">Select a User</label>
+                                <select class="form-control" id="LendsVM_BtSelectedUser" ng-model="vm.UserId" ng-options="x.Name for x in vm.Users">
+                                    <!--<option selected>Choose...</option>
+                                    <option ng-model="vm.Users" ng-options="x in vm.Users"></option>-->
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <label for="LendsVM_BtSelectedBook">Select a Book</label>
+                                <select class="form-control" id="LendsVM_BtSelectedBook" ng-model="vm.BookId" ng-options="x.Title for x in vm.Books">
+                                    <!--<option selected>Choose...</option>
+                                    <option ng-repeat="Book in vm.Books" value="Book.Title">Book.Title</option>-->
+                                </select>
+                            </div>
+                        </div>
+
+                        <button type="submit" class="btn btn-primary btn-round float-right" ng-click="vm.AddNewLend()">
+                            <i class="now-ui-icons users_single-02"></i> LEND A BOOK
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12">
+            <div class="card card-plain">
+                <div class="card-header">
+                    <h4 class="card-title"> BOOKS LENDED TO USER </h4>
+                    <p class="category"> These books are lended by members</p>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <div class="card o-hidden border-0 shadow-lg my-5">
+                            <div ui-grid="vm.GridOptions" ui-grid-auto-resize></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

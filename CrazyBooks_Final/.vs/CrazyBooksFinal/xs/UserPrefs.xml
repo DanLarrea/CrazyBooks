@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{FD674324-445E-4196-8710-BB339C8460F9}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CrazyBooksFinal" expanded="True" selected="True">
+            <Node name="CrazyBooks.Web" expanded="True">
+              <Node name="wwwroot" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Home" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CrazyBooks.Web PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

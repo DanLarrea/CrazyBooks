@@ -1,0 +1,77 @@
+﻿<style>
+    input[type=color].form-control {
+        padding: 5px;
+        height: 35px;
+        width: 32px;
+    }
+</style>
+<div class="content">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">
+                    <h4 class="card-title">ADD NEW ROOM</h4>
+                </div>
+                <div class="card-body">
+                    <form>
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <input type="text" class="form-control" id="inputCode" placeholder="Code" ng-model="vm.Code">
+                            </div>
+                            <div class="form-check col-md-6">
+                                <label class="form-check-label">
+                                    <input type="color" class="form-control" id="inputColor" placeholder="Color" ng-model="vm.Color">
+                                    Color
+                                </label>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <input type="number" class="form-control" id="inputCapacity" placeholder="Capacity" ng-model="vm.Capacity">
+                            </div>
+                            <div class="form-check col-md-6">
+                                <label class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" ng-model="vm.Accessible">
+                                    Is Accessible?
+                                    <span class="form-check-sign">
+                                        <span class="check"></span>
+                                    </span>
+                                </label>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-round float-right" ng-show="vm.IsEditing">
+                            CLEAN
+                        </button>
+                        <button type="submit" class="btn btn-primary btn-round float-right" ng-click="vm.ClearForm()" ng-show="!vm.IsEditing">
+                            CANCEL
+                        </button>
+                        <button type="submit" class="btn btn-primary btn-round float-right" ng-click="vm.UpdateUser()" ng-show="!vm.IsEditing">
+                            UPDATE
+                        </button>
+                        <button type="submit" class="btn btn-primary btn-round float-right" ng-show="vm.IsEditing" ng-click="vm.AddNewUser()">
+                            <i class="now-ui-icons users_single-02"></i> ADD ROOM
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12">
+            <div class="card card-plain">
+                <div class="card-header">
+                    <h4 class="card-title"> ROOMS LIST </h4>
+                    <p class="category"> These rooms can be used by library members</p>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <div class="card o-hidden border-0 shadow-lg my-5">
+                            <div ui-grid="vm.GridOptions" ui-grid-auto-resize></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    

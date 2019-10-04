@@ -1,0 +1,25 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+body {
+    /*width: 100%;
+    height: 100vh;
+    margin: 0px;
+    background-color: white;
+    overflow: hidden;*/
+}
+
+:root {
+    /*--menuWidth: 300px;*/
+}
+
+.MainContainer {
+    /*width: 100%;
+    height: 100%;
+    margin: 0px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: white;*/
+}

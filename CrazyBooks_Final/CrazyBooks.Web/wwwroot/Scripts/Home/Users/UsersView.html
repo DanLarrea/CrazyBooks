@@ -1,0 +1,71 @@
+﻿<style>
+
+</style>
+<div class="content">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">
+                    <h4 class="card-title">ADD NEW USER</h4>
+                </div>
+                <div class="card-body">
+                    <form>
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <input type="text" class="form-control" id="inputName" placeholder="Name" ng-model="vm.Name">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input type="text" class="form-control" id="inputLastname" placeholder="Lastname" ng-model="vm.Lastname">
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <input type="text" class="form-control" id="inputDNI" placeholder="DNI" ng-model="vm.Dni">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input type="number" class="form-control" id="inputPhone" placeholder="Phone" ng-model="vm.Phone">
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <input type="email" class="form-control" id="inputEmail" placeholder="Email" ng-model="vm.Email">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input type="password" class="form-control" id="inputPassword" placeholder="Password" ng-model="vm.Password">
+                            </div>
+                        </div>
+                       
+
+                        <button type="submit" class="btn btn-primary btn-round float-right" ng-show="vm.IsEditing">
+                            CLEAN
+                        </button>
+                        <button type="submit" class="btn btn-primary btn-round float-right" ng-click="vm.ClearForm()" ng-show="!vm.IsEditing">
+                            CANCEL
+                        </button>
+                        <button type="submit" class="btn btn-primary btn-round float-right" ng-click="vm.UpdateUser()" ng-show="!vm.IsEditing">
+                            UPDATE
+                        </button>
+                        <button type="submit" class="btn btn-primary btn-round float-right" ng-show="vm.IsEditing" ng-click="vm.AddNewUser()">
+                            <i class="now-ui-icons users_single-02"></i> ADD USER
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12">
+            <div class="card card-plain">
+                <div class="card-header">
+                    <h4 class="card-title"> USERS LIST </h4>
+                    <p class="category"> These bastards can use the library</p>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <div class="card o-hidden border-0 shadow-lg my-5">
+                            <div ui-grid="vm.GridOptions" ui-grid-auto-resize></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

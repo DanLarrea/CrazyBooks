@@ -1,0 +1,65 @@
+﻿<style>
+
+</style>
+<div class="content">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">
+                    <h4 class="card-title">ADD NEW BOOK</h4>
+                </div>
+                <div class="card-body">
+                    <form>
+                        <div class="form-row">
+                            <div class="form-group col-md-12">
+                                <input type="text" class="form-control" id="inputTitle" placeholder="Title" ng-model="vm.Title">
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-12">
+                                <input type="text" class="form-control" id="inputAuthor" placeholder="Author" ng-model="vm.Author">
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-12">
+                                <input type="date" class="form-control" id="inputPublicationDate" placeholder="Publication Date" ng-model="vm.PublicationDate">
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-12">
+                                <input type="number" class="form-control" id="inputEdition" placeholder="Edition" ng-model="vm.Edition">
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-round float-right" ng-show="vm.IsEditing">
+                            CLEAN
+                        </button>
+                        <button type="submit" class="btn btn-primary btn-round float-right" ng-click="vm.ClearForm()" ng-show="!vm.IsEditing">
+                            CANCEL
+                        </button>
+                        <button type="submit" class="btn btn-primary btn-round float-right" ng-click="vm.UpdateBook()" ng-show="!vm.IsEditing">
+                            UPDATE
+                        </button>
+                        <button type="submit" class="btn btn-primary btn-round float-right" ng-show="vm.IsEditing" ng-click="vm.AddNewBook()">
+                            <i class="now-ui-icons users_single-02"></i> ADD BOOK
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12">
+            <div class="card card-plain">
+                <div class="card-header">
+                    <h4 class="card-title"> BOOKS LIST </h4>
+                    <p class="category"> This is the books catalog</p>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <div class="card o-hidden border-0 shadow-lg my-5">
+                            <div ui-grid="vm.GridOptions" <!--ui-grid-auto-resize-->></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

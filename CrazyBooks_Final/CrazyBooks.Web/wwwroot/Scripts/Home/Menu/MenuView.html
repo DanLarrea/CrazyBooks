@@ -1,0 +1,74 @@
+﻿<style>
+</style>
+<div>
+    <div class="sidebar" data-color="orange">
+        <!--
+            Tip 1: You can change the color of the sidebar using: data-color="blue | green | orange | red | yellow"
+        -->
+        <div class="logo">
+            <a href="" style="font-family: 'Patua One', cursive; font-size:16px;" class="simple-text logo-mini">
+                BC
+            </a>
+            <a ng-click="vm.ShowView('/')" class="simple-text logo-normal">
+                Biblioteca CRAZY
+            </a>
+        </div>
+        <div class="sidebar-wrapper" id="sidebar-wrapper">
+            <ul class="nav">
+                <!--<li class="active">
+        <a href="./dashboard.html">
+            <i class="now-ui-icons business_bank"></i>
+            <p>Home</p>
+        </a>
+    </li>-->
+                <li>
+                    <a ng-click="vm.ShowView('books')">
+                        <i class="now-ui-icons education_agenda-bookmark"></i>
+                        <p>Books</p>
+                    </a>
+                </li>
+                <li>
+                    <a ng-click="vm.ShowView('users')">
+                        <i class="now-ui-icons business_badge"></i>
+                        <p>Users</p>
+                    </a>
+                </li>
+                <li>
+                    <a ng-click="vm.ShowView('rooms')">
+                        <i class="now-ui-icons shopping_shop"></i>
+                        <p>Rooms</p>
+                    </a>
+                </li>
+                <li>
+                    <a ng-click="vm.ShowView('lends')">
+                        <i class="now-ui-icons education_glasses"></i>
+                        <p>Lends</p>
+                    </a>
+                </li>
+                <li>
+                    <a ng-click="vm.ShowView('reservations')">
+                        <i class="now-ui-icons ui-1_calendar-60"></i>
+                        <p>Reservations</p>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="main-panel" id="main-panel">
+        <nav class="navbar navbar-expand-lg navbar-transparent  bg-primary  navbar-absolute">
+            <div class="container-fluid">
+                <div class="navbar-wrapper">
+                    <div class="navbar-toggle">
+                        <button type="button" class="navbar-toggler" style="padding-left: 260px;">
+                            <span class="navbar-toggler-bar bar1"></span>
+                            <span class="navbar-toggler-bar bar2"></span>
+                            <span class="navbar-toggler-bar bar3"></span>
+                        </button>
+                    </div>
+                    <!--<a class="navbar-brand" href="default.html" style="padding-left: 25px;">MENU</a>-->
+                </div>
+            </div>
+        </nav>
+    </div>
+</div>
+
